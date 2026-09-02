@@ -1,0 +1,88 @@
+some useful practies for improve your coding skills hope it comes in handy.
+ x = int(input("Enter x: "))
+ y = int(input("Enter y: "))
+ print(x, "+", y , "=", x+y)
+ print(x, "*", y , "=", x*y)
+ print(x, "-", y , "=", x-y)
+ print(x, "/", y , "=", x/y)
+--------------------------------------------
+ c = int(input("Enter c: "))
+ d = int(input("Enter d: "))
+ e = int(input("Enter e: "))
+ print(c, "+", d, "+", e, "=", c+d+e)
+ print(c, "*", d, "*", e, "=", c*d*e)
+ print(c, "-", d, "-", e, "=", c-d-e)
+ print(c, "/", d, "/", e, "=", c/d/e)
+---------------------------------------------
+ q = int(input("Enter q: "))
+ w = int(input("Enter w: "))
+ e = int(input("Enter e: "))
+ r = int(input("Enter r: "))
+ print(q, "+", w, "+", e, "+", r, "=", q+w+e+r)
+ print(q, "*", w, "*", e,"*", r, "=", q*w*e*r)
+ print(q, "-",w, "-", e, "-", r, "=", q-w-e-r)
+ print(q, "/",w, "/", e, "/", r, "=", q/w/e/r)
+-----------------------------------------------
+ x = int(input("Enter x: "))
+ temp = x % 10
+ print(temp)
+ x = x // 10
+ print(x)
+-----------------------------------------------
+ y = int(input("Enter y: "))
+ temp = y % 10
+ print(temp)
+ y = y // 10
+ print(y)
+-----------------------------------------------
+ R = D * (3.14 / 180)
+ d = int(input("x:")
+ r = int(input)
+-------------------------------------------------
+ x = int(input("x : "))
+ a = x ** 2
+ b = x ** 3
+ c = x ** 4
+ d = x ** 5
+-----------------------------------------------
+ x = int(input("x : "))
+ y = int(input("y : "))
+ print(pow(x, 2))
+ print(y)
+------------------------------------------------
+ q = int(input("q : "))
+ w = int(input("w : "))
+ print(pow(q, 3))
+ print(w)
+
+-----------------------------------------------
+ e = int(input("e : "))
+ r = int(input("r : "))
+ print(pow(e, r))
+ print(r)
+-----------------------------------------------
+ t = int(input("t : "))
+ y = int(input("y : "))
+ print(pow(t, 3))
+ print(y)
+-----------------------------------------------
+ u = int(input("u : "))
+ i = int(input("i : "))
+ print(pow(u, i))
+ print(u)
+-------------------------------------------------
+ o = int(input("i : "))
+ p = int(input("u : "))
+ print(pow(o, p))
+-------------------------------------------------
+ o = int(input("o : "))
+ p = int(input("p : "))
+ a = int(input("a : "))
+ print((o + p + a)/3)
+-------------------------------------------------
+q = int(input("q : "))
+w = int(input("w : "))
+e = int(input("e : "))
+r = int(input("r : "))
+print((q+w+e+r)/4)
+------------------------------------------------
